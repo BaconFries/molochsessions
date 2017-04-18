@@ -1,6 +1,6 @@
 # molochsessions
 
-crud, simple script to query moloch api via cli
+crude, simple script to query moloch api via cli
 
 ###Examples
 ```sh
